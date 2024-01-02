@@ -1,0 +1,17 @@
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\bin\Debug\yurt_proje.exe.config
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\bin\Debug\yurt_proje.exe
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\bin\Debug\yurt_proje.pdb
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.csproj.AssemblyReference.cache
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.anasayfa.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.giriss.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.Properties.Resources.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.csproj.GenerateResource.cache
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.exe
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.pdb
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.duyuruyap.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.kullanicisayfa.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.ogrenci.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.btndoluoda.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.duyurugor.resources
+C:\Users\Sinem\Desktop\projects\yurt_proje\yurt_proje\obj\Debug\yurt_proje.odemeyap.resources
